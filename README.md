@@ -1,2 +1,2 @@
 # Minor-project-4
-Built 
+This project is a MySQL-based fraud detection analysis built on 200,000+ simulated payment transactions from a fintech platform. It uses pure SQL to identify 12 common fraud patterns, including velocity fraud, card testing, round-amount transactions, failed-then-successful payment attempts, mule accounts, refund abuse, merchant collusion, Rs 9,999 structuring, dormant account activity, transaction spikes, and geographic impossibility. The project demonstrates practical SQL skills such as filtering, aggregation, `GROUP BY`, `HAVING`, joins, CTEs, subqueries, date/time analysis, and window functions.
